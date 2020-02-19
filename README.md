@@ -1,4 +1,4 @@
 # git_school
-<h1>ucheba in git</h1>
-<p>3 строчка занята (Алёша)</p>
+<h1>Tect</h1>
+<p>test</p>
 
